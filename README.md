@@ -30,6 +30,11 @@ Em seguida, foi criado o bucket no s3 que atuará como repositório do nosso dat
 
 ![image](https://user-images.githubusercontent.com/89877903/177228747-86c93dbd-d1e0-4218-8d63-7acf40968fd5.png)
 
+**Datalake** 
+
+![image](https://user-images.githubusercontent.com/89877903/177231114-6351b657-b8d9-4459-ac7f-60961f28467f.png)
+
+
 
 ### 2 Passo 
 
