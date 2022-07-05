@@ -49,7 +49,7 @@ Após a etapa de execução do Crawler, podemos analisar os dados utilizando a i
 
 ![image](https://user-images.githubusercontent.com/89877903/177229508-d1831df1-4600-4f40-ad37-6a396c944837.png)
 
-
+Todos os arquivos utilizados se encontram dentro deste repositório!
 
 
 
